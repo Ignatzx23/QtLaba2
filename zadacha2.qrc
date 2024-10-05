@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>note.png</file>
+        <file>Ork.png</file>
+        <file>Shesterni.png</file>
+    </qresource>
+</RCC>
